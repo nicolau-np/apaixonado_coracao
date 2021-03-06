@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801755402107",
+    "project_id": "armindadores-194a4",
+    "storage_bucket": "armindadores-194a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801755402107:android:73d96e91b96d56cac7b7de",
+        "android_client_info": {
+          "package_name": "com.example.armindadores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801755402107-g5rmo0fbg1tqj6oardb3dtc36bj3ntin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaQcvkDhkgCNT9Ueu5PwvZKCC5xlYR17Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801755402107-g5rmo0fbg1tqj6oardb3dtc36bj3ntin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
